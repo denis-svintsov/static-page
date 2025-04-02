@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "NotoSansGunjalaGondi"; /*Can be any text*/
+    src:
+        local("NotoSansGunjalaGondi"),
+        url("../fonts/NotoSansGunjalaGondi-Regular.ttf") format("truetype");
+}
+
+body {
+    font-family: "NotoSansGunjalaGondi";
+    font-weight: 400;
+}
